@@ -1,0 +1,35 @@
+body {
+    background-color: #a0b3e281;
+    border: 5px solid #5a75bb81;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 16px;
+}
+
+header, footer {
+    text-align: center;
+}
+
+.border-radius {
+    border-radius: 50%;
+}
+
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+h1 {
+    text-align: center;
+}
+
+.text-transform {
+    text-transform: uppercase;
+    font-weight: 900;
+    border: 5px dotted #5a75bb81;
+}
+
+
+
+
+
